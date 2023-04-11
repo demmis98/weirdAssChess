@@ -1,4 +1,4 @@
-package sqr;
+package chess;
 //btw thenks to CodeNMore for a lot of the code :3
 
 import java.awt.Canvas;
@@ -8,8 +8,8 @@ import java.awt.image.BufferStrategy;
 
 import javax.swing.JFrame;
 
-import sqr.states.GameState;
-import sqr.states.State;
+import chess.states.GameState;
+import chess.states.State;
 
 public class Game {
 	Canvas canvas;

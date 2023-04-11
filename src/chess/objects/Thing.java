@@ -1,4 +1,4 @@
-package sqr.objects;
+package chess.objects;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;

@@ -1,8 +1,8 @@
-package sqr.states;
+package chess.states;
 
 import java.awt.Graphics;
 
-import sqr.All;
+import chess.All;
 
 public abstract class State {
 	private All all;

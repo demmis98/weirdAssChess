@@ -1,4 +1,4 @@
-package sqr;
+package chess;
 
 import javax.swing.JFrame;
 

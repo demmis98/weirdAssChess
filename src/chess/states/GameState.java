@@ -1,10 +1,10 @@
-package sqr.states;
+package chess.states;
 
 import java.awt.Color;
 import java.awt.Graphics;
 
-import sqr.All;
-import sqr.input.Key;
+import chess.All;
+import chess.input.Key;
 
 public class GameState extends State {
 	Key key;
